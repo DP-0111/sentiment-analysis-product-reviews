@@ -89,6 +89,17 @@ and real-world suitability.
 | Neutral F1-Score | 0.06 | 0.32 |
 | Training Required | None | Yes |
 
+## Visualisations
+
+### Sentiment Distribution
+![Sentiment Distribution](sentiment_distribution.png)
+
+### Confusion Matrix  
+![Confusion Matrix](confusion_matrix.png)
+
+### Sentiment Trend Over Time
+![Sentiment Trend](sentiment_trend.png)
+
 ---
 
 ## Key Finding
