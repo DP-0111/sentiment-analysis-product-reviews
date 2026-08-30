@@ -147,7 +147,15 @@ misclassifying a neutral one.
 ---
 
 ## Project Structure
-
+Sentiment-Analysis-Product-Reviews/
+├── SENTIMENT-ANALYSIS(PRODUCT-REVIEWS).ipynb
+├── graphs/
+│ ├── sentiment_distribution.png
+│ ├── confusion_matrix.png
+│ ├── wordcloud_positive.png
+│ ├── wordcloud_negative.png
+│ └── sentiment_trend.png
+└── README.md
 
 ---
 
